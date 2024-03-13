@@ -1,0 +1,16 @@
+h1{
+    font-size: 30px;
+    text-align: right;
+    color: #c22725;
+}
+form{
+    margin: auto;
+    text-align: right;
+    font-size: 30px;
+}
+form input{
+    font-size: 25px;
+}
+li{
+    text-align: right;
+}

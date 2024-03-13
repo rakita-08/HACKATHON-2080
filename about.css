@@ -1,0 +1,14 @@
+aside{
+    color: white;
+    padding: 15px;
+    float: left;
+    width: 500px;
+}
+a{
+    float: right;
+}
+body{
+    background-image: url(hike.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
